@@ -1,5 +1,5 @@
 <picture>
-  <a href="https://github.com/JulesTestCode/PixelArt" />
+  <a href="https://github.com/JulesDevCode/PixelArt" />
   <style align="center" />
   <source media="(prefers-color-scheme: dark)" srcset="pixel_art-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="pixel_art-light.svg" />
@@ -243,15 +243,15 @@ Do you want to deploy it in production ? 🚀 (yes/no): |
 
 <!--
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JulesTestCode&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JulesTestCode&theme=ambient_gradient&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulesTestCode&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=JulesDevCode&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JulesDevCode&theme=ambient_gradient&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulesDevCode&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ## 🌐 Profile Views:
-![](https://komarev.com/ghpvc/?username=JuleqTestCode&color=brightgreen&style=plastic&abbreviated=true&base=50&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=JulesDevCode&color=brightgreen&style=plastic&abbreviated=true&base=50&label=Profile+Views)
 -->
 
 
