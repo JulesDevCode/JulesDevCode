@@ -72,90 +72,139 @@
 
 [comment]: # (logo solution : <img align="right" src="https://skillicons.dev/icons?i=cs,dotnet,,aws,figma,postman,visualstudio&theme=light" title="C# - .NET -  - AWS - Figma - Postman - VisualStudio" />)
 
-<img align="right" src="https://img.shields.io/badge/Fusion360-ED6B21?style=flat&logo=freecad&logoColor=white&logoSize=auto" title="Autodesk Fusion360" height="22" />
-<img align="right" src="https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white&logoSize=auto" title="ROS 2" height="22"/>
+<table>
 
-- **AI-Supervised Robotic Sorting System :**\
-📆 2024 `Team project`
-  <img align="right" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoSize=auto" title="Python 3" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white&logoSize=auto" title="Pytorch" height="22"/>
-  - Video processing and visual recognition system using **Deep Learning**
-  - Remote control of a **TurtleBot**, manually and/or automatically, via area mapping
-  - Simulation of a **robotic arm controlled** remotely for **”pick and place”** operations
-  - Integration of all project components to deliver an **AI-supervised robotic system** for automated object sorting in a predeﬁned area
-  <br/><br/>
+  <!-- Project 1 -->
+  <tr>
+    <td valign="top" width="70%">
+      
+  - **AI-Supervised Robotic Sorting System**\
+  📆 2024 - `Team project`  
+    - Video processing and visual recognition system using **Deep Learning**  
+    - Remote control of a **TurtleBot**, manually and/or automatically, via area mapping  
+    - Simulation of a **robotic arm** for **”pick and place”** operations  
+    - Integration of all components into an **AI-supervised sorting system** for automated object sorting in a predeﬁned area
+    <br/>
 
-<img align="right" src="https://img.shields.io/badge/Fusion360-ED6B21?style=flat&logo=freecad&logoColor=white&logoSize=auto" title="Autodesk Fusion360" height="22" />
-<img align="right" src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white&logoSize=auto" title="Arduino" height="22"/>
-<img align="right" src="https://img.shields.io/badge/LoRaWAN-0194E2?style=flat&logo=lorawan&logoColor=white&logoSize=auto" title="LoRaWAN" height="22"/>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/Fusion360-ED6B21?style=flat&logo=freecad&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" height="22" />
+    </td>
+  </tr>
 
-- **Home Station :**\
-  📆 2023 `Team project`
-  <img align="right" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoSize=auto" title="Python 3" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white&logoSize=auto" title="Flask" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white&logoSize=auto" title="Qt" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white&logoSize=auto" title="SQLite" height="22"/>
-  -  Design and creation of a **connected weather station** tailored for households, equipped with multiple sensors and modules
-  -  Encoding and decoding data frames transmitted by the station using the **LoRaWAN** protocol
-  -  Development of a **client software** displaying real-time weather data and enabling the addition and control of other home **automation modules**
-  <br/><br/>
+  <!-- Project 2 -->
+  <tr>
+    <td valign="top" width="70%">
 
-<img align="right" src="https://img.shields.io/badge/Fusion360-ED6B21?style=flat&logo=freecad&logoColor=white&logoSize=auto" title="Autodesk Fusion360" height="22" />
-<img align="right" src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white&logoSize=auto" title="Arduino" height="22"/>
-<img align="right" src="https://img.shields.io/badge/Scrum-0194E2?style=flat&logo=scrum&logoColor=white&logoSize=auto" title="Scrum" height="22"/>
+  - **Home Station**\
+  📆 2023 - `Team project`  
+    - Design and creation of a **connected weather station** tailored for households, equipped with multiple sensors and modules
+    - Encoding and decoding data frames transmitted by the station using the **LoRaWAN** protocol
+    - Development of a **client software** displaying real-time weather data and enabling the addition and control of other home **automation modules**
+    <br/>
 
-- **Robotic Delivery System :**\
-  📆 2022 `Team project`
-  <img align="right" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoSize=auto" title="Python 3" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white&logoSize=auto" title="Flask" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white&logoSize=auto" title="SQLite" height="22"/>
-  -  Design and fabrication of a **mobile robot** remotely controllable
-  -  Creation of a client software for registering packages and distributing them in the **robotic ﬂeet** using a ”FIFO” system
-  -  Development of a **supervisor server** for collecting package data, calculating optimal paths based on ﬂeet layout, and sending commands to available robots
-  <br/><br/>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/Fusion360-ED6B21?style=flat&logo=freecad&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/LoRaWAN-0194E2?style=flat&logo=lorawan&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" height="22" />
+    </td>
+  </tr>
 
-<img align="right" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoSize=auto" title="Python 3" height="22"/>
-<img align="right" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white&logoSize=auto" title="OpenCV" height="22"/>
+  <!-- Project 3 -->
+  <tr>
+    <td valign="top" width="70%">
 
-- **Robotic ”Mirror” Arm :**\
-  📆 2022 `Individual project`
-  <img align="right" src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white&logoSize=auto" title="Arduino" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/TCP/UDP-A435F0?style=flat&logo=network&logoColor=white&logoSize=auto" title="Networking" height="22"/>
-  -  Design and implementation of a **robotic arm remotely controlled** via UDP frame reception
-  -  Video processing and **real-time visual recognition system** for sending UDP commands
-  -  Integration of both parts to reﬂect the **hand’s position** on a remote robotic arm and perform other **ﬁnger-based actions**
-  <br/><br/>
+  - **Robotic Delivery System**\
+  📆 2022 - `Team project`  
+    - Design and fabrication of a **mobile robot** with remote-control features  
+    - Development of a **client app** for package registration and fleet control  
+    - Backend server for route optimization and dispatching by sending commands to available robots and using **FIFO logic**
+    <br/>
+
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/Fusion360-ED6B21?style=flat&logo=freecad&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/Scrum-0194E2?style=flat&logo=scrum&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" height="22" />
+    </td>
+  </tr>
+
+  <!-- Project 4 -->
+  <tr>
+    <td valign="top" width="70%">
+
+  - **Robotic “Mirror” Arm**\
+  📆 2022 - `Individual project`  
+    - Remote control of a **robotic arm** via UDP communication  
+    - Video processing and **real-time gesture recognition** for sending UDP commands
+    - Integration of both parts to reﬂect the **hand’s position** on a remote robotic arm and perform other **ﬁnger-based actions**
+    <br/>
+
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" height="22" />
+      <img src="https://img.shields.io/badge/TCP/UDP-A435F0?style=flat&logo=network&logoColor=white" height="22" />
+    </td>
+  </tr>
+</table>
 
 ### Experiences
 
-<img align="right" src="https://img.shields.io/badge/C%23_.NET-512BD4?style=flat" title="C# & .NET" height="22" />
-<img align="right" src="https://img.shields.io/badge/APIs_REST-ffc273?style=flat" title="APIs REST" height="22"/>
-<img align="right" src="https://img.shields.io/badge/SQL_&_NoSQL-c1558b?style=flat" title="SQL & NoSQL" height="22"/>
-<img align="right" src="https://img.shields.io/badge/Azure-0089D6?style=flat" title="Microsoft Azure" height="22"/>
+<table>
+  <tr>
+    <td valign="top" width="70%">
 
-- **IT Engineer (Apprenticeship & Fixed-Term Contract)**\
-  <img align="right" src="https://img.shields.io/badge/AWS-FF9900?style=flat" title="Amazon Web Service" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&logoSize=auto" title="Figma" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&logoSize=auto" title="Postman" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat" title="Visual Studio" height="22"/>
-  📆 Nov. 2022 - Dec. 2024\
-  📍 **CTAC-TEC Flipr** - Perpignan, France
-  -  Maintenance and **evolution of Flipr’s backend** and its **Azure** environment (REST APIs, Webjobs, Databases).
-  -  Managing the evolution of the **Flipr mobile application** and **international teams** handling its IOS and Android development.
-  -  Participation in the development and integration of AnalysR V3 and Flipr Connect within Flipr’s ecosystem.
-  -  Design, development, and integration of FliprAI, an **AI-powered solution** for pool and environment analysis, generating treatment recommendations, and enabling user interaction.
-  <br/><br/>
+  - **IT Engineer (Apprenticeship & Fixed-Term Contract)**\
+  📆 Nov. 2022 – Dec. 2024 · 📍 *CTAC-TEC Flipr – Perpignan, France*  
+    - Maintenance and **evolution of Flipr’s backend** and its **Azure** environment (REST APIs, Webjobs, Databases)  
+    - Managing the evolution of the **Flipr mobile application** and **international teams** (iOS/Android)  
+    - Participation in the development and integration of **AnalysR V3** and **Flipr Connect** within Flipr’s ecosystem. (IoT)
+    - Creation of **FliprAI**, an **AI-powered solution** for pool & environment analysis and user interaction
+    <br/>
 
-<img align="right" src="https://img.shields.io/badge/Lychee_Slicer-e56969?style=flat&logo=lychee&logoColor=white&logoSize=auto" title="Lychee Slicer" height="22" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/C%23_.NET-512BD4?style=flat" title="C# & .NET" height="22" />
+      <img src="https://img.shields.io/badge/APIs_REST-ffc273?style=flat" title="APIs REST" height="22"/>
+      <img src="https://img.shields.io/badge/SQL_&_NoSQL-c1558b?style=flat" title="SQL & NoSQL" height="22"/>
+      <img src="https://img.shields.io/badge/Azure-0089D6?style=flat" title="Microsoft Azure" height="22"/>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat" title="Amazon Web Services" height="22"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" title="Postman" height="22"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" title="Figma" height="22"/>
+      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat" title="Visual Studio" height="22"/>
+    </td>
+  </tr>
 
-- **Versatile Employee – Maker (Apprenticeship)**\
-  <img align="right" src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white&logoSize=auto" title="Arduino" height="22"/>
-  <img align="right" src="https://img.shields.io/badge/Fusion360-ED6B21?style=flat&logo=freecad&logoColor=white&logoSize=auto" title="Autodesk Fusion360" height="22" />
-  📆 Dec. 2021 - Sep. 2022\
-  📍 **FunRoom Escape Games** - Pau, France
-  -  Maintenance, design, and implementation of **mechatronic mechanisms** for escape rooms or speciﬁc business requests
-  -  Client reception, game room management, and payment handling (Game Master)
-  <br/><br/>
+  <tr>
+    <td valign="top" width="70%">
+
+  - **Versatile Employee – Maker (Apprenticeship)**\
+  📆 Dec. 2021 – Sep. 2022 · 📍 *FunRoom Escape Games – Pau, France*  
+    - Maintenance, design, and implementation of **mechatronic mechanisms** for escape games and speciﬁc business requests
+    - Client reception, game room management, and payment handling (Game Master)
+    <br/>
+
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/Lychee_Slicer-e56969?style=flat&logo=lychee&logoColor=white" title="Lychee Slicer" height="22"/>
+      <img src="https://img.shields.io/badge/Fusion360-ED6B21?style=flat&logo=freecad&logoColor=white" title="Autodesk Fusion360" height="22" />
+      <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" title="Arduino" height="22"/>
+    </td>
+  </tr>
+</table>
   
 ### Education
 
@@ -251,7 +300,7 @@ Do you want to deploy it in production ? 🚀 (yes/no): |
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ## 🌐 Profile Views:
-![](https://komarev.com/ghpvc/?username=JulesDevCode&color=brightgreen&style=plastic&abbreviated=true&base=50&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=JuleqTestCode&color=brightgreen&style=plastic&abbreviated=true&base=50&label=Profile+Views)
 -->
 
 
